@@ -1,0 +1,7 @@
+{
+  "name": "KisanOrganic - Fresh Farm Harvest",
+  "description": "Direct from farm 100% herbal & chemical-free fresh harvest booking portal and farmgate visit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
